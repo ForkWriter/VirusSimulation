@@ -1,0 +1,5 @@
+﻿  Вирус.cpp
+C:\Users\pavel\source\repos\Вирус\Вирус\Вирус.cpp(37,56): warning C4101: cluster_pointr: неиспользованная локальная переменная
+C:\Users\pavel\source\repos\Вирус\Вирус\Вирус.cpp(128,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\pavel\source\repos\Вирус\Вирус\Вирус.cpp(131,7): warning C4101: mass: неиспользованная локальная переменная
+  Вирус.vcxproj -> C:\Users\pavel\source\repos\Вирус\Debug\Вирус.exe
